@@ -11,7 +11,7 @@ I leveraged Express HTML and JavaScript for frontend tasks and employed Angular 
 
 Testing:
 
-The project's testing phase involved rigorous API testing to ensure proper functionality. This meant examining how different HTTP methods (like GET, POST, PUT, DELETE) interacted with various endpoints (URLs). Most of this was done using Postman, but I also was able to see the data returned in the terminal inside VS Code while running and testing the application. The introduction of security features, particularly JWT authentication, added complexity to the testing process. 
+The project's testing phase involved rigorous API testing to ensure proper functionality. This meant examining how different HTTP methods (like GET, POST, PUT, DELETE) interacted with various endpoints. Most of this was done using Postman, but I also was able to see the data returned in the terminal inside VS Code while running and testing the application. The introduction of security features, particularly JWT authentication, added complexity to the testing process. 
 
 Reflection:
 
