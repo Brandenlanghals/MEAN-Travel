@@ -1,4 +1,4 @@
-#CS-465 Full Stack Development with MEAN
+CS-465 Full Stack Development with MEAN
 
 Architecture:
 
